@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+input[type = "checkbox"] {
+    margin-right: 10px;
+} 
+
+.editBtn {
+    margin-left: 20px;
+}
+
+.done {
+    text-decoration: line-through;
+}
